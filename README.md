@@ -1,5 +1,5 @@
 # leet_cane
-A collection of LeetCode questions. rdwaj/LeetHub-2.0)
+A collection of LeetCode questions. 
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
