@@ -24,4 +24,8 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prakhar4pixel/leet_cane/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/prakhar4pixel/leet_cane/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
