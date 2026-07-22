@@ -7,6 +7,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prakhar4pixel/leet_cane/tree/master/0001-two-sum) |
+| [0485-max-consecutive-ones](https://github.com/prakhar4pixel/leet_cane/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
