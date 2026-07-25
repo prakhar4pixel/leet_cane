@@ -8,6 +8,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0001-two-sum](https://github.com/prakhar4pixel/leet_cane/tree/master/0001-two-sum) |
 | [0485-max-consecutive-ones](https://github.com/prakhar4pixel/leet_cane/tree/master/0485-max-consecutive-ones) |
+| [1929-concatenation-of-array](https://github.com/prakhar4pixel/leet_cane/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,4 +35,8 @@ A collection of LeetCode questions.
 | [0007-reverse-integer](https://github.com/prakhar4pixel/leet_cane/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/prakhar4pixel/leet_cane/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/prakhar4pixel/leet_cane/tree/master/0013-roman-to-integer) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/prakhar4pixel/leet_cane/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
